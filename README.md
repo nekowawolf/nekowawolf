@@ -6,11 +6,9 @@ I am nekowawolf, I am a blockchain and web3 enthusiast and a junior develover I 
 
 <br>
 <br>
-<a href="https://app.daily.dev/nekowawolf"><img align="left" src="https://api.daily.dev/devcards/438b9c0159f64dab9a2011d9578b1e3b.png?r=g5w" width="200" alt="nekowawolf's Dev Card"/></a>
+<a href="https://app.daily.dev/nekowawolf"><img src="https://api.daily.dev/devcards/438b9c0159f64dab9a2011d9578b1e3b.png?r=1r3" width="200" alt="nekowawolf's Dev Card"/></a>
 </br>
 </br>
-
-
 
 💪 As a junior web developer and community managaer have over +1 years of experience. 
 
