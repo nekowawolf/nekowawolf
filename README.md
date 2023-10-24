@@ -1,4 +1,4 @@
-### Hi there 👋:eye:
+### Hi there 👋
 
 # Welcome to **my github** 🔥
 
