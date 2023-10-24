@@ -2,7 +2,7 @@
 
 # Welcome to **my github** 🔥
 
-I am nekowawolf, I am a blockchain and web3 enthusiast and a junior develover I am still studying at the international logistics & business university majoring in IT, I also like to editing and make memes and also a community managaer in crypto projects. 
+I am nekowawolf, I am a blockchain and web3 enthusiast and a junior develover I am still studying at the international logistics & business university majoring in IT, I also like to editing and make memes and also a community manager in crypto projects. 
 
 <br>
 <br>
