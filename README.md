@@ -10,9 +10,9 @@ I am nekowawolf, I am a blockchain and web3 enthusiast and a junior develover I 
 </br>
 </br>
 
-💪 As a junior web developer and community managaer have over +1 years of experience. 
+💪 As a junior web developer and community manager have over +2 years of experience. 
 
-👀 I’m looking to help with community managaer and frontend web developer
+👀 I’m looking to help with community manager and frontend web developer
 
 💬 Ask me about crypto and web development
 
