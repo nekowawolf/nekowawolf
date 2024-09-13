@@ -1,1 +1,1 @@
-# < Hello, World />
+# helloWorld('console.log')
